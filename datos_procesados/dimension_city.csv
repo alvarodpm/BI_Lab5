@@ -1,98 +1,98 @@
-,row ID,City_Key,City,State_Province,Country,Continent,Sales_Territory,Region,Subregion,Latest_Recorded_Population
-1,Row1,1,Carrollton,New York,United States,North America,Mideast,Americas,Northern America,0
-2,Row2,2,Carrollton,Virginia,United States,North America,Southeast,Americas,Northern America,4574
-3,Row3,3,Carrollton,Illinois,United States,North America,Great Lakes,Americas,Northern America,2484
-4,Row4,4,Carrollton,Missouri,United States,North America,Plains,Americas,Northern America,3784
-5,Row5,5,Carrollton,Ohio,United States,North America,Great Lakes,Americas,Northern America,3241
-6,Row6,6,Carrollton,Kentucky,United States,North America,Southeast,Americas,Northern America,3938
-7,Row7,7,Carrollton,Georgia,United States,North America,Southeast,Americas,Northern America,24388
-8,Row8,8,Carrollton,Alabama,United States,North America,Southeast,Americas,Northern America,1019
-9,Row9,9,Carrollton,Mississippi,United States,North America,Southeast,Americas,Northern America,190
-10,Row10,10,Carrollton,Texas,United States,North America,Southwest,Americas,Northern America,119097
-11,Row11,11,Carrollton Manor,Maryland,United States,North America,Mideast,Americas,Northern America,0
-12,Row12,12,Carrolltown,Pennsylvania,United States,North America,Mideast,Americas,Northern America,853
-13,Row13,13,Carrothers,Ohio,United States,North America,Great Lakes,Americas,Northern America,0
-14,Row14,14,Carrsville,Virginia,United States,North America,Southeast,Americas,Northern America,359
-15,Row15,15,Carrsville,Kentucky,United States,North America,Southeast,Americas,Northern America,50
-16,Row16,16,Carsins,Maryland,United States,North America,Mideast,Americas,Northern America,0
-17,Row17,17,Carson,New Mexico,United States,North America,Southwest,Americas,Northern America,0
-18,Row18,18,Carson,California,United States,North America,Far West,Americas,Northern America,91714
-19,Row19,19,Carson,Washington,United States,North America,Far West,Americas,Northern America,2279
-20,Row20,20,Carson,North Dakota,United States,North America,Plains,Americas,Northern America,293
-21,Row21,21,Carson,Iowa,United States,North America,Plains,Americas,Northern America,812
-22,Row22,22,Carson City,Nevada,United States,North America,Far West,Americas,Northern America,55274
-23,Row23,23,Carson City,Michigan,United States,North America,Great Lakes,Americas,Northern America,1093
-24,Row24,24,Carsonville,Michigan,United States,North America,Great Lakes,Americas,Northern America,527
-25,Row25,25,Carsonville,Georgia,United States,North America,Southeast,Americas,Northern America,0
-26,Row26,26,Carta Valley,Texas,United States,North America,Southwest,Americas,Northern America,0
-27,Row27,27,Cartago,California,United States,North America,Far West,Americas,Northern America,92
-28,Row28,28,Carter,Wyoming,United States,North America,Rocky Mountain,Americas,Northern America,10
-29,Row29,29,Carter,Montana,United States,North America,Rocky Mountain,Americas,Northern America,58
-30,Row30,30,Carter,Tennessee,United States,North America,Southeast,Americas,Northern America,0
-31,Row31,31,Carter,Wisconsin,United States,North America,Great Lakes,Americas,Northern America,0
-32,Row32,32,Carter,Mississippi,United States,North America,Southeast,Americas,Northern America,0
-33,Row33,33,Carter,South Dakota,United States,North America,Plains,Americas,Northern America,0
-34,Row34,34,Carter,Kentucky,United States,North America,Southeast,Americas,Northern America,0
-35,Row35,35,El Cenizo,Texas,United States,North America,Southwest,Americas,Northern America,3273
-36,Row36,36,El Centro,California,United States,North America,Far West,Americas,Northern America,42598
-37,Row37,37,El Cerrito,California,United States,North America,Far West,Americas,Northern America,23549
-38,Row38,38,El Cerro,New Mexico,United States,North America,Southwest,Americas,Northern America,2953
-39,Row39,39,El Combate,Puerto Rico (US Territory),United States,North America,External,Americas,Northern America,423
-40,Row40,40,El Dara,Illinois,United States,North America,Great Lakes,Americas,Northern America,78
-41,Row41,41,El Dorado,Arkansas,United States,North America,Southeast,Americas,Northern America,18884
-42,Row42,42,El Dorado,Kansas,United States,North America,Plains,Americas,Northern America,13021
-43,Row43,43,El Dorado Hills,California,United States,North America,Far West,Americas,Northern America,42108
-44,Row44,44,El Dorado Springs,Missouri,United States,North America,Plains,Americas,Northern America,3593
-45,Row45,45,El Duende,New Mexico,United States,North America,Southwest,Americas,Northern America,707
-46,Row46,46,El Granada,California,United States,North America,Far West,Americas,Northern America,5467
-47,Row47,47,El Indio,Texas,United States,North America,Southwest,Americas,Northern America,190
-48,Row48,48,El Jebel,Colorado,United States,North America,Rocky Mountain,Americas,Northern America,3801
-49,Row49,49,El Lago,Texas,United States,North America,Southwest,Americas,Northern America,2706
-50,Row50,50,El Mang�,Puerto Rico (US Territory),United States,North America,External,Americas,Northern America,1482
-51,Row51,51,El Mirage,Arizona,United States,North America,Southwest,Americas,Northern America,31797
-52,Row52,52,El Monte,California,United States,North America,Far West,Americas,Northern America,113475
-53,Row53,53,El Moro,Colorado,United States,North America,Rocky Mountain,Americas,Northern America,221
-54,Row54,54,El Negro,Puerto Rico (US Territory),United States,North America,External,Americas,Northern America,1075
-55,Row55,55,El Nido,California,United States,North America,Far West,Americas,Northern America,330
-56,Row56,56,El Ojo,Puerto Rico (US Territory),United States,North America,External,Americas,Northern America,1478
-57,Row57,57,El Paraiso,Puerto Rico (US Territory),United States,North America,External,Americas,Northern America,1716
-58,Row58,58,El Paso,Texas,United States,North America,Southwest,Americas,Northern America,649121
-59,Row59,59,El Paso,Wisconsin,United States,North America,Great Lakes,Americas,Northern America,0
-60,Row60,60,El Paso,Illinois,United States,North America,Great Lakes,Americas,Northern America,2810
-61,Row61,61,El Paso,Arkansas,United States,North America,Southeast,Americas,Northern America,0
-62,Row62,62,El Paso de Robles,California,United States,North America,Far West,Americas,Northern America,29793
-63,Row63,63,El Portal,California,United States,North America,Far West,Americas,Northern America,474
-64,Row64,64,El Portal,Florida,United States,North America,Southeast,Americas,Northern America,2325
-65,Row65,65,El Porvenir,New Mexico,United States,North America,Southwest,Americas,Northern America,0
-66,Row66,66,El Prado,New Mexico,United States,North America,Southwest,Americas,Northern America,0
-67,Row67,67,El Rancho,Colorado,United States,North America,Rocky Mountain,Americas,Northern America,0
-68,Row68,68,Austerlitz,New York,United States,North America,Mideast,Americas,Northern America,0
-69,Row69,69,Brown Deer,Wisconsin,United States,North America,Great Lakes,Americas,Northern America,11999
-70,Row70,70,Crofton,Maryland,United States,North America,Mideast,Americas,Northern America,27348
-71,Row71,71,Carter,Oklahoma,United States,North America,Southwest,Americas,Northern America,256
-72,Row72,72,El Rancho,New Mexico,United States,North America,Southwest,Americas,Northern America,1199
-73,Row73,73,El Refugio,Texas,United States,North America,Southwest,Americas,Northern America,331
-74,Row74,74,El Reno,Oklahoma,United States,North America,Southwest,Americas,Northern America,16749
-75,Row75,75,El Rio,California,United States,North America,Far West,Americas,Northern America,7198
-76,Row76,76,El Rito,New Mexico,United States,North America,Southwest,Americas,Northern America,808
-77,Row77,77,El Sauz,Texas,United States,North America,Southwest,Americas,Northern America,0
-78,Row78,78,El Segundo,California,United States,North America,Far West,Americas,Northern America,16654
-79,Row79,79,El Sobrante,California,United States,North America,Far West,Americas,Northern America,12669
-80,Row80,80,El Toro,Texas,United States,North America,Southwest,Americas,Northern America,0
-81,Row81,81,El Toro,California,United States,North America,Far West,Americas,Northern America,0
-82,Row82,82,El Tumbao,Puerto Rico (US Territory),United States,North America,External,Americas,Northern America,2511
-83,Row83,83,El Vado,New Mexico,United States,North America,Southwest,Americas,Northern America,0
-84,Row84,84,El Verano,California,United States,North America,Far West,Americas,Northern America,4123
-85,Row85,85,Elaine,Arkansas,United States,North America,Southeast,Americas,Northern America,636
-86,Row86,86,Eland,Wisconsin,United States,North America,Great Lakes,Americas,Northern America,202
-87,Row87,87,Elba,New York,United States,North America,Mideast,Americas,Northern America,676
-88,Row88,88,Elba,Minnesota,United States,North America,Plains,Americas,Northern America,152
-89,Row89,89,Elba,Alabama,United States,North America,Southeast,Americas,Northern America,3940
-90,Row90,90,Elba,Nebraska,United States,North America,Plains,Americas,Northern America,215
-91,Row91,91,Austin,Kentucky,United States,North America,Southeast,Americas,Northern America,0
-92,Row92,92,Austin,Montana,United States,North America,Rocky Mountain,Americas,Northern America,0
-93,Row93,93,Austin,Texas,United States,North America,Southwest,Americas,Northern America,790390
-94,Row94,94,Austin,Nevada,United States,North America,Far West,Americas,Northern America,192
-95,Row95,95,Austin,Arkansas,United States,North America,Southeast,Americas,Northern America,2038
-96,Row96,96,Austin,Indiana,United States,North America,Great Lakes,Americas,Northern America,4295
-97,Row97,97,Austin,Pennsylvania,United States,North America,Mideast,Americas,Northern America,562
+,City_Key,City,State_Province,Country,Continent,Sales_Territory,Region,Subregion,Latest_Recorded_Population
+1,1,Carrollton,New York,United States,North America,Mideast,Americas,Northern America,0
+2,2,Carrollton,Virginia,United States,North America,Southeast,Americas,Northern America,4574
+3,3,Carrollton,Illinois,United States,North America,Great Lakes,Americas,Northern America,2484
+4,4,Carrollton,Missouri,United States,North America,Plains,Americas,Northern America,3784
+5,5,Carrollton,Ohio,United States,North America,Great Lakes,Americas,Northern America,3241
+6,6,Carrollton,Kentucky,United States,North America,Southeast,Americas,Northern America,3938
+7,7,Carrollton,Georgia,United States,North America,Southeast,Americas,Northern America,24388
+8,8,Carrollton,Alabama,United States,North America,Southeast,Americas,Northern America,1019
+9,9,Carrollton,Mississippi,United States,North America,Southeast,Americas,Northern America,190
+10,10,Carrollton,Texas,United States,North America,Southwest,Americas,Northern America,119097
+11,11,Carrollton Manor,Maryland,United States,North America,Mideast,Americas,Northern America,0
+12,12,Carrolltown,Pennsylvania,United States,North America,Mideast,Americas,Northern America,853
+13,13,Carrothers,Ohio,United States,North America,Great Lakes,Americas,Northern America,0
+14,14,Carrsville,Virginia,United States,North America,Southeast,Americas,Northern America,359
+15,15,Carrsville,Kentucky,United States,North America,Southeast,Americas,Northern America,50
+16,16,Carsins,Maryland,United States,North America,Mideast,Americas,Northern America,0
+17,17,Carson,New Mexico,United States,North America,Southwest,Americas,Northern America,0
+18,18,Carson,California,United States,North America,Far West,Americas,Northern America,91714
+19,19,Carson,Washington,United States,North America,Far West,Americas,Northern America,2279
+20,20,Carson,North Dakota,United States,North America,Plains,Americas,Northern America,293
+21,21,Carson,Iowa,United States,North America,Plains,Americas,Northern America,812
+22,22,Carson City,Nevada,United States,North America,Far West,Americas,Northern America,55274
+23,23,Carson City,Michigan,United States,North America,Great Lakes,Americas,Northern America,1093
+24,24,Carsonville,Michigan,United States,North America,Great Lakes,Americas,Northern America,527
+25,25,Carsonville,Georgia,United States,North America,Southeast,Americas,Northern America,0
+26,26,Carta Valley,Texas,United States,North America,Southwest,Americas,Northern America,0
+27,27,Cartago,California,United States,North America,Far West,Americas,Northern America,92
+28,28,Carter,Wyoming,United States,North America,Rocky Mountain,Americas,Northern America,10
+29,29,Carter,Montana,United States,North America,Rocky Mountain,Americas,Northern America,58
+30,30,Carter,Tennessee,United States,North America,Southeast,Americas,Northern America,0
+31,31,Carter,Wisconsin,United States,North America,Great Lakes,Americas,Northern America,0
+32,32,Carter,Mississippi,United States,North America,Southeast,Americas,Northern America,0
+33,33,Carter,South Dakota,United States,North America,Plains,Americas,Northern America,0
+34,34,Carter,Kentucky,United States,North America,Southeast,Americas,Northern America,0
+35,35,El Cenizo,Texas,United States,North America,Southwest,Americas,Northern America,3273
+36,36,El Centro,California,United States,North America,Far West,Americas,Northern America,42598
+37,37,El Cerrito,California,United States,North America,Far West,Americas,Northern America,23549
+38,38,El Cerro,New Mexico,United States,North America,Southwest,Americas,Northern America,2953
+39,39,El Combate,Puerto Rico (US Territory),United States,North America,External,Americas,Northern America,423
+40,40,El Dara,Illinois,United States,North America,Great Lakes,Americas,Northern America,78
+41,41,El Dorado,Arkansas,United States,North America,Southeast,Americas,Northern America,18884
+42,42,El Dorado,Kansas,United States,North America,Plains,Americas,Northern America,13021
+43,43,El Dorado Hills,California,United States,North America,Far West,Americas,Northern America,42108
+44,44,El Dorado Springs,Missouri,United States,North America,Plains,Americas,Northern America,3593
+45,45,El Duende,New Mexico,United States,North America,Southwest,Americas,Northern America,707
+46,46,El Granada,California,United States,North America,Far West,Americas,Northern America,5467
+47,47,El Indio,Texas,United States,North America,Southwest,Americas,Northern America,190
+48,48,El Jebel,Colorado,United States,North America,Rocky Mountain,Americas,Northern America,3801
+49,49,El Lago,Texas,United States,North America,Southwest,Americas,Northern America,2706
+50,50,El Mang�,Puerto Rico (US Territory),United States,North America,External,Americas,Northern America,1482
+51,51,El Mirage,Arizona,United States,North America,Southwest,Americas,Northern America,31797
+52,52,El Monte,California,United States,North America,Far West,Americas,Northern America,113475
+53,53,El Moro,Colorado,United States,North America,Rocky Mountain,Americas,Northern America,221
+54,54,El Negro,Puerto Rico (US Territory),United States,North America,External,Americas,Northern America,1075
+55,55,El Nido,California,United States,North America,Far West,Americas,Northern America,330
+56,56,El Ojo,Puerto Rico (US Territory),United States,North America,External,Americas,Northern America,1478
+57,57,El Paraiso,Puerto Rico (US Territory),United States,North America,External,Americas,Northern America,1716
+58,58,El Paso,Texas,United States,North America,Southwest,Americas,Northern America,649121
+59,59,El Paso,Wisconsin,United States,North America,Great Lakes,Americas,Northern America,0
+60,60,El Paso,Illinois,United States,North America,Great Lakes,Americas,Northern America,2810
+61,61,El Paso,Arkansas,United States,North America,Southeast,Americas,Northern America,0
+62,62,El Paso de Robles,California,United States,North America,Far West,Americas,Northern America,29793
+63,63,El Portal,California,United States,North America,Far West,Americas,Northern America,474
+64,64,El Portal,Florida,United States,North America,Southeast,Americas,Northern America,2325
+65,65,El Porvenir,New Mexico,United States,North America,Southwest,Americas,Northern America,0
+66,66,El Prado,New Mexico,United States,North America,Southwest,Americas,Northern America,0
+67,67,El Rancho,Colorado,United States,North America,Rocky Mountain,Americas,Northern America,0
+68,68,Austerlitz,New York,United States,North America,Mideast,Americas,Northern America,0
+69,69,Brown Deer,Wisconsin,United States,North America,Great Lakes,Americas,Northern America,11999
+70,70,Crofton,Maryland,United States,North America,Mideast,Americas,Northern America,27348
+71,71,Carter,Oklahoma,United States,North America,Southwest,Americas,Northern America,256
+72,72,El Rancho,New Mexico,United States,North America,Southwest,Americas,Northern America,1199
+73,73,El Refugio,Texas,United States,North America,Southwest,Americas,Northern America,331
+74,74,El Reno,Oklahoma,United States,North America,Southwest,Americas,Northern America,16749
+75,75,El Rio,California,United States,North America,Far West,Americas,Northern America,7198
+76,76,El Rito,New Mexico,United States,North America,Southwest,Americas,Northern America,808
+77,77,El Sauz,Texas,United States,North America,Southwest,Americas,Northern America,0
+78,78,El Segundo,California,United States,North America,Far West,Americas,Northern America,16654
+79,79,El Sobrante,California,United States,North America,Far West,Americas,Northern America,12669
+80,80,El Toro,Texas,United States,North America,Southwest,Americas,Northern America,0
+81,81,El Toro,California,United States,North America,Far West,Americas,Northern America,0
+82,82,El Tumbao,Puerto Rico (US Territory),United States,North America,External,Americas,Northern America,2511
+83,83,El Vado,New Mexico,United States,North America,Southwest,Americas,Northern America,0
+84,84,El Verano,California,United States,North America,Far West,Americas,Northern America,4123
+85,85,Elaine,Arkansas,United States,North America,Southeast,Americas,Northern America,636
+86,86,Eland,Wisconsin,United States,North America,Great Lakes,Americas,Northern America,202
+87,87,Elba,New York,United States,North America,Mideast,Americas,Northern America,676
+88,88,Elba,Minnesota,United States,North America,Plains,Americas,Northern America,152
+89,89,Elba,Alabama,United States,North America,Southeast,Americas,Northern America,3940
+90,90,Elba,Nebraska,United States,North America,Plains,Americas,Northern America,215
+91,91,Austin,Kentucky,United States,North America,Southeast,Americas,Northern America,0
+92,92,Austin,Montana,United States,North America,Rocky Mountain,Americas,Northern America,0
+93,93,Austin,Texas,United States,North America,Southwest,Americas,Northern America,790390
+94,94,Austin,Nevada,United States,North America,Far West,Americas,Northern America,192
+95,95,Austin,Arkansas,United States,North America,Southeast,Americas,Northern America,2038
+96,96,Austin,Indiana,United States,North America,Great Lakes,Americas,Northern America,4295
+97,97,Austin,Pennsylvania,United States,North America,Mideast,Americas,Northern America,562
